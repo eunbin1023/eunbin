@@ -2,5 +2,8 @@
 int main(void)
 {
 printf("hello world\n");
+printf("apple");
+printf("!!!!!");
+
 return 0;
-}s
+}
